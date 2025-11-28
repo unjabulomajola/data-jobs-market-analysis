@@ -1,4 +1,4 @@
-# Data Analytics Capstone Project
+# Data Jobs Market Analysis Project
 
 This project was developed by **Njabulo Majola** to demonstrate end-to-end analytical capabilities across the modern data analytics stack.  
 It explores how structured problem-solving, storytelling, and technical execution can transform raw data into actionable business intelligence.
